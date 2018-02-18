@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>核弹厂(nvidia)某不务正业员工 <a href="https://github.com/fynv">夏虫飞</a></td>
-    <td>C++，Python</td>
+    <td>C++，Python，编曲</td>
     <td><a href="http://space.bilibili.com/19190861/">哔哩</a></td>
     <td></td>
   </tr>
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td>本群最大的大佬 <a href="https://github.com/splinter22">花儿不哭</a></td>
-    <td>调教师，计算机视觉</td>
+    <td>调教师，编曲，计算机视觉</td>
     <td><a href="http://space.bilibili.com/5760446/">哔哩</a></td>
     <td></td>
   </tr>
