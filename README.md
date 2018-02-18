@@ -25,11 +25,11 @@
 （排名不分先后）
 
 <table>
-  <th>
-    <td>简介</td>
-    <td>专业领域</td>
-    <td colspan="2">活跃网站</td>
-  </th>
+  <tr>
+    <th>简介</th>
+    <th>专业领域</th>
+    <th colspan="2">活跃网站</th>
+  </tr>
   <tr>
     <td>给各位大佬端茶送水的群主 <a href="https://github.com/LePtC">LePtC</a></td>
     <td>物理，MMA，编曲，写文章</td>
