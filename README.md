@@ -20,6 +20,16 @@
 
 
 
+# 团队特色
+
+群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
+
+笑话当中也包含了对一些 FAQ 的回答：
+
+[咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
+
+
+
 # 团队成员
 
 （排名不分先后）
@@ -158,4 +168,10 @@
   </tr>
 </table>
 
+
+# 捐赠
+
+唯一指定邮箱：uupers@gmail.com
+
+![uupers@gmail.com](https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg)
 
