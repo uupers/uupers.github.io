@@ -139,7 +139,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>  <a href="">美东矿业</a></td>
+    <td>  <a href="https://github.com/ssysm">美东矿业</a></td>
     <td>超算，硬件音乐</td>
     <td><a href="http://space.bilibili.com/10010775">哔哩</a></td>
     <td></td>
