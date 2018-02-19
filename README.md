@@ -174,7 +174,7 @@
 
 唯一指定邮箱：uupers@gmail.com
 
-<img width="400" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.png">
+<img width="400" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg">
 
 帐号由本团的吉祥物（招财猫） <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理
 
