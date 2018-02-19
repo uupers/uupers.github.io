@@ -26,7 +26,7 @@
 
 笑话当中也包含了对一些 FAQ 的回答：
 
-[咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
+- [咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
 
 
 
@@ -169,9 +169,13 @@
 </table>
 
 
+
 # 捐赠
 
 唯一指定邮箱：uupers@gmail.com
 
-![uupers@gmail.com](https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg)
+<img width="400" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.png">
+
+帐号由本团的吉祥物（招财猫） <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理
+
 
