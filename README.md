@@ -103,8 +103,8 @@
     <td></td>
   </tr>
   <tr>
-    <td>老前辈 <a href="https://github.com/ProtossProbe">ProtossProbe</a></td>
-    <td>力学，编曲，Ae</td>
+    <td>全职打 call <a href="https://github.com/ProtossProbe">ProtossProbe</a></td>
+    <td>力学，编曲，Ae，配音</td>
     <td><a href="http://space.bilibili.com/488744/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/protossprobe">知乎</a></td>
   </tr>
