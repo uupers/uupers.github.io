@@ -1,4 +1,4 @@
-# United (Unkown) Unscientific Producers
+# United (Unknown) Unscientific Producers
 
 我们是「原创科技类视频创作团队」，我们的兴趣范围包括与编程、科普、技术相关的任何课题（例如[将编程与音乐结合](http://www.bilibili.com/video/av18623766)、[将科普与游戏结合](http://www.bilibili.com/video/av19070980)）。**原创** 是我们最看重的品质：技术不会可以学，好的 idea 是最宝贵的。
 
