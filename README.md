@@ -120,13 +120,13 @@
   </tr>
   <tr>
     <td>简直全栈 <a href="https://github.com/OperaRhino">salient蛤</a></td>
-    <td>Processing，网络工程</td>
+    <td>Python，Processing，网络工程</td>
     <td><a href="http://space.bilibili.com/8629138/">哔哩</a></td>
     <td></td>
   </tr>
   <tr>
     <td>  <a href="https://github.com/Nintha">不会飞的栗子球</a></td>
-    <td>网络工程</td>
+    <td>Java，JS，网络工程</td>
     <td><a href="http://space.bilibili.com/6479479/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/nintha">知乎</a></td>
   </tr>
@@ -137,7 +137,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>  <a href="https://github.com/hydrogendeuterium">氘化氢</a></td>
+    <td>高级粉丝 <a href="https://github.com/hydrogendeuterium">氘化氢</a></td>
     <td>东方</td>
     <td><a href="https://space.bilibili.com/29762504">哔哩</a></td>
     <td></td>
@@ -174,7 +174,7 @@
 
 唯一指定邮箱：uupers@gmail.com
 
-<img width="350" alt="uupers@gmail.com" href="HTTPS://QR.ALIPAY.COM/FKX09997SC6KZXWNAWBC43" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg">
+<a href="HTTPS://QR.ALIPAY.COM/FKX09997SC6KZXWNAWBC43"><img width="350" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg"></a>
 
 （帐号由本团的吉祥物：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理）
 
