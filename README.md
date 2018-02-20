@@ -20,6 +20,29 @@
 
 
 
+# 当前进行中的创作项目
+
+
+<table>
+  <tr>
+    <th>小组</th>
+    <th>简介</th>
+    <th>组长</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/uupers/BiliSpider">BiliSpider</a></td>
+    <td>爬取 bilibili 网站数据，研究其中有趣的规律，制作大数据可视化视频作品</td>
+    <td><a href="https://github.com/yxlllc">yxlllc</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/uupers/SciAni">SciAni</a></td>
+    <td>通俗直观地讲解大家感兴趣的问题，做涨姿势的干货科普，生产文章和视频作品</td>
+    <td><a href="https://github.com/Hansimov">IAsimov</a></td>
+  </tr>
+</table>
+
+
+
 # 团队特色
 
 群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
@@ -167,6 +190,8 @@
     <td></td>
   </tr>
 </table>
+
+（想修改自己简介的，或者不想被展示在团队首页的，可私戳群主修改，新人想被加进列表也请私戳群主）
 
 
 
