@@ -19,9 +19,17 @@
 - 2018.02.17 为团队取名字（待整理）
 
 
+# 团队特色
 
-# 当前进行中的创作项目
+群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
 
+笑话当中也包含了对一些 FAQ 的回答：
+
+- [咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
+
+
+
+# 当前创作项目
 
 <table>
   <tr>
@@ -42,14 +50,9 @@
 </table>
 
 
+# 团队作品
 
-# 团队特色
-
-群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
-
-笑话当中也包含了对一些 FAQ 的回答：
-
-- [咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
+团队作品包括视频、文章、程序，计划分别投放到 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站进行。另外在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务
 
 
 
