@@ -20,18 +20,6 @@
 
 
 
-# 团队特色
-
-群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
-
-笑话当中也包含了对一些 FAQ 的回答：
-
-- [咱们群的头像是谁呀](https://github.com/orgs/uupers/teams/daily-joke/discussions/13)
-
-（注：[Daily Joke](https://github.com/orgs/uupers/teams/daily-joke) 和 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 仅加入组织的成员可见，所以请群员尽量都开 GitHub 帐号并加入组织）
-
-
-
 # Idea 孵化流程
 
 1. 初步的想法在大群里讨论，集思广益
@@ -61,9 +49,17 @@
 
 
 
+# 团队特色
+
+群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
+
+（注：[Daily Joke](https://github.com/orgs/uupers/teams/daily-joke) 和 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 仅加入组织的成员可见，所以请群员尽量都开 GitHub 帐号并加入组织）
+
+
+
 # 团队作品
 
-团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。同时在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
+团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。同时，在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
 
 
 
