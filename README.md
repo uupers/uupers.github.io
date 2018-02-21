@@ -19,6 +19,11 @@
 - 2018.02.17 为团队取名字（待整理）
 
 
+团队特色：群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
+
+（注：Team 的时间线、[Daily Joke](https://github.com/orgs/uupers/teams/daily-joke) 和 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 仅加入组织的成员可见，所以请群员尽量都开 GitHub 帐号并加入组织）
+
+
 
 # Idea 孵化流程
 
@@ -46,14 +51,6 @@
     <td><a href="https://github.com/Hansimov">IAsimov</a></td>
   </tr>
 </table>
-
-
-
-# 团队特色
-
-群主最大的爱好是 maintain 我们的 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke)
-
-（注：[Daily Joke](https://github.com/orgs/uupers/teams/daily-joke) 和 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 仅加入组织的成员可见，所以请群员尽量都开 GitHub 帐号并加入组织）
 
 
 
