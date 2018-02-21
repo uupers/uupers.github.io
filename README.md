@@ -158,10 +158,16 @@
     <td></td>
   </tr>
   <tr>
-    <td>  <a href="https://github.com/Nintha">不会飞的栗子球</a></td>
+    <td>不会飞的 <a href="https://github.com/Nintha">栗子球</a></td>
     <td>Java，JS，网络工程</td>
     <td><a href="http://space.bilibili.com/6479479/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/nintha">知乎</a></td>
+  </tr>
+  <tr>
+    <td>假装什么都不会的 <a href="https://github.com/AlexanderZhujiageng">Raindrop</a></td>
+    <td>Python，C++，MATLAB，信号处理</td>
+    <td><a href="http://space.bilibili.com/13989575/">哔哩</a></td>
+    <td><a href="https://www.zhihu.com/people/zhu-alexande">知乎</a></td>
   </tr>
   <tr>
     <td>  <a href="https://github.com/Jirehlov">门入桥</a></td>
