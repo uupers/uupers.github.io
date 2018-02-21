@@ -199,6 +199,12 @@
     <td><a href="http://space.bilibili.com/3339417">哔哩</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>智能互动式音乐创业 <a href="https://github.com/?">Phylyd</a></td>
+    <td>物理，机器学习，作曲</td>
+    <td></td>
+    <td><a href="https://www.zhihu.com/people/phylyd">知乎</a></td>
+  </tr>
 </table>
 
 （想修改自己简介的，或者不想被展示在团队首页的，可私戳群主修改，新人想被加进列表也请私戳群主）
