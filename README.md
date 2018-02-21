@@ -101,7 +101,7 @@
     <td>核弹厂(nvidia)某不务正业员工 <a href="https://github.com/fynv">夏虫飞</a></td>
     <td>C++，Python，编曲</td>
     <td><a href="http://space.bilibili.com/19190861/">哔哩</a></td>
-    <td></td>
+    <td><a href="https://www.zhihu.com/people/yang-fei-7">知乎</a></td>
   </tr>
   <tr>
     <td>三维动画待取名门派掌门 <a href="https://github.com/HyperGroups">HyperGroups</a></td>
