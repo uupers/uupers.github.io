@@ -29,7 +29,14 @@
 
 
 
-# 当前进行中的创作项目
+# Idea 孵化流程
+
+1. 初步的想法在大群里讨论，集思广益
+1. 整理群聊成果，贴到 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 永久存档
+1. 认为某个 idea 可以开工后，在 Organization 下开新的 Repo 和 Team
+1. 后续讨论在组员的子群、Team 的时间线、Repo 的 issue 里进行
+
+当前进行中的创作项目有：
 
 <table>
   <tr>
@@ -52,7 +59,7 @@
 
 # 团队作品
 
-团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。另外在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
+团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。同时在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
 
 
 
@@ -204,6 +211,6 @@
 
 <a href="HTTPS://QR.ALIPAY.COM/FKX09997SC6KZXWNAWBC43"><img width="350" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg"></a>
 
-（帐号由本团的吉祥物：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理）
+（帐号由本团的<a href="https://github.com/orgs/uupers/teams/daily-joke/discussions/7">吉祥物</a>：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理）
 
 
