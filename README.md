@@ -149,6 +149,12 @@
     <td><a href="https://www.zhihu.com/people/protossprobe">知乎</a></td>
   </tr>
   <tr>
+    <td>打 call+1 <a href="https://github.com/emptymalei">章鱼喵</a></td>
+    <td>物理，MMA，Javascript</td>
+    <td><a href="http://space.bilibili.com/4495971/">哔哩</a></td>
+    <td><a href="https://www.zhihu.com/people/emptymalei">知乎</a></td>
+  </tr>
+  <tr>
     <td>简直全栈 <a href="https://github.com/OperaRhino">salient蛤</a></td>
     <td>Python，Processing，网络工程</td>
     <td><a href="http://space.bilibili.com/8629138/">哔哩</a></td>
@@ -161,7 +167,7 @@
     <td><a href="https://www.zhihu.com/people/nintha">知乎</a></td>
   </tr>
   <tr>
-    <td>假装什么都不会的 <a href="https://github.com/AlexanderZhujiageng">Raindrop</a></td>
+    <td>假装什么都不会的 <a href="https://github.com/AlexanderZhujiageng">Alexanderals</a></td>
     <td>Python，C++，MATLAB，信号处理</td>
     <td><a href="http://space.bilibili.com/13989575/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zhu-alexande">知乎</a></td>
