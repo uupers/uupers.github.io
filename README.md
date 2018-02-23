@@ -155,6 +155,12 @@
     <td><a href="https://www.zhihu.com/people/emptymalei">知乎</a></td>
   </tr>
   <tr>
+    <td>全职摸鱼 <a href="https://github.com/Wavechaser">Wavechaser</a></td>
+    <td>C4D，摄影，KSP</td>
+    <td><a href="http://space.bilibili.com/7422264/">哔哩</a></td>
+    <td><a href="https://www.youtube.com/user/WavechaserX">油管</a></td>
+  </tr>
+  <tr>
     <td>简直全栈 <a href="https://github.com/OperaRhino">salient蛤</a></td>
     <td>Python，Processing，网络工程</td>
     <td><a href="http://space.bilibili.com/8629138/">哔哩</a></td>
