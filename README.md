@@ -50,6 +50,11 @@
     <td>通俗直观地讲解大家感兴趣的问题，做涨姿势的干货科普，生产文章和视频作品</td>
     <td><a href="https://github.com/Hansimov">IAsimov</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/uupers/How2Lexplain">How2Lexplain</a></td>
+    <td>【如何狸解】系列科普作品的视频化计划，准备从狭义相对论的相关话题入手</td>
+    <td><a href="https://github.com/LePtC">LePtC</a></td>
+  </tr>
 </table>
 
 
