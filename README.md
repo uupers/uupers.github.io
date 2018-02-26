@@ -14,7 +14,7 @@
 
 - 2018.02.13 [抱团群的设立](http://www.bilibili.com/read/cv220952)
 
-- 2018.02.15 [抱团群的设立（续）](https://gist.github.com/LePtC/23ceab4e1647d8461c46ea7bc3dcc34b)
+- 2018.02.15 [抱团群的设立（续）](https://gist.github.com/LePtC/23ceab4e1647d8461c46ea7bc3dcc34b) （[墙内阅读地址](https://github.com/uupers/uupers.github.io/blob/master/%E6%8A%B1%E5%9B%A2%E7%BE%A4%E7%9A%84%E8%AE%BE%E7%AB%8B%EF%BC%88%E7%BB%AD%EF%BC%89.md)）
 
 - 2018.02.17 为团队取名字（待整理）
 
