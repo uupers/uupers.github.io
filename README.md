@@ -132,7 +132,7 @@
   <tr>
     <td>作图爱好者大佬 <a href="https://github.com/wuyudi">wuyudi</a></td>
     <td>各类作图软件，MMA</td>
-    <td>暂无</td>
+    <td><a href="http://space.bilibili.com/122962744/">哔哩</a></td>
     <td></td>
   </tr>
   <tr>
@@ -224,6 +224,12 @@
     <td>物理，机器学习，作曲</td>
     <td></td>
     <td><a href="https://www.zhihu.com/people/phylyd">知乎</a></td>
+  </tr>
+  <tr>
+    <td>全栈の <a href="https://github.com/MgBronya233">神奇の布狼牙</a></td>
+    <td>java，机器学习</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
