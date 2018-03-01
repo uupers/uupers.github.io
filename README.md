@@ -232,8 +232,8 @@
     <td></td>
   </tr>
   <tr>
-    <td>科学理论3D可视化志愿者 <a href="https://github.com/Wavechaser">Wavechaser</a></td>
-    <td>3DCG (maya, 3ds max), 视频后期，CAD，Python 图形</td>
+    <td>科学理论3D可视化志愿者 <a href="https://github.com/N31Welt">N31Welt</a></td>
+    <td>3DCG (maya, 3ds max)，视频后期，CAD，Python 图形</td>
     <td><a href="https://www.youtube.com/user/opticue">油管</a></td>
     <td><a href="https://www.zhihu.com/people/n31welt">知乎</a></td>
   </tr>
