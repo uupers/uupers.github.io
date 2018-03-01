@@ -14,9 +14,9 @@
 
 - 2018.02.13 [抱团群的设立](http://www.bilibili.com/read/cv220952)
 
-- 2018.02.15 [抱团群的设立（续）](https://gist.github.com/LePtC/23ceab4e1647d8461c46ea7bc3dcc34b) （[墙内阅读地址](https://github.com/uupers/uupers.github.io/blob/master/%E6%8A%B1%E5%9B%A2%E7%BE%A4%E7%9A%84%E8%AE%BE%E7%AB%8B%EF%BC%88%E7%BB%AD%EF%BC%89.md)）
+- 2018.02.26 [抱团群的设立（续）](https://gist.github.com/LePtC/23ceab4e1647d8461c46ea7bc3dcc34b) （[墙内阅读地址](https://github.com/uupers/uupers.github.io/blob/master/%E6%8A%B1%E5%9B%A2%E7%BE%A4%E7%9A%84%E8%AE%BE%E7%AB%8B%EF%BC%88%E7%BB%AD%EF%BC%89.md)）
 
-- 2018.02.17 为团队取名字（待整理）
+- 2018.03.01 [团队的候选名和头像](https://github.com/orgs/uupers/teams/admin/discussions/3) （需加入组织才可见）
 
 
 群聊产生的具体项目 idea 贴在 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) ，此外我们还 maintain 一个 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke) 点滴记录团队的欢声笑语
