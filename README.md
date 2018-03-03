@@ -237,6 +237,12 @@
     <td><a href="https://www.youtube.com/user/opticue">油管</a></td>
     <td><a href="https://www.zhihu.com/people/n31welt">知乎</a></td>
   </tr>
+  <tr>
+    <td>  <a href="https://github.com/keysking">keysking</a></td>
+    <td>C++，Py</td>
+    <td><a href="http://space.bilibili.com/6100925">哔哩</a></td>
+    <td></td>
+  </tr>
 </table>
 
 （想修改自己简介的，或者不想被展示在团队首页的，可私戳群主修改，新人想被加进列表也请私戳群主）
