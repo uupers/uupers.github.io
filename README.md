@@ -133,7 +133,7 @@
     <td>作图爱好者大佬 <a href="https://github.com/wuyudi">wuyudi</a></td>
     <td>各类作图软件，MMA</td>
     <td><a href="http://space.bilibili.com/122962744/">哔哩</a></td>
-    <td></td>
+    <td><a href="https://www.zhihu.com/people/wuyudi-93">知乎</a></td>
   </tr>
   <tr>
     <td>自制显微镜大佬 <a href="">小城旧事-_-</a></td>
