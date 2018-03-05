@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>给各位大佬端茶送水的群主 <a href="https://github.com/LePtC">LePtC</a></td>
-    <td>物理，MMA，编曲，写文章</td>
+    <td>物理，MMA，Flash，编曲，写文章</td>
     <td><a href="http://space.bilibili.com/2654670/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/leptc/">知乎</a></td>
   </tr>
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>钦定的管理员 <a href="https://github.com/Hansimov">IAsimov</a></td>
-    <td>MATLAB，Java</td>
+    <td>信息安全，MATLAB，Java</td>
     <td><a href="http://space.bilibili.com/15870477/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zh-yu-88-90/">知乎</a></td>
   </tr>
