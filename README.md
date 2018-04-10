@@ -63,7 +63,7 @@
 
 团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。同时，在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
 
-
+[【数据可视化】7分钟看完加速77万倍的B站发展史](https://www.bilibili.com/video/av21768006)
 
 # 团队成员
 
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>钦定的管理员 <a href="https://github.com/Hansimov">IAsimov</a></td>
-    <td>信息安全，MATLAB，Java</td>
+    <td>Python, JavaScript</td>
     <td><a href="http://space.bilibili.com/15870477/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zh-yu-88-90/">知乎</a></td>
   </tr>
