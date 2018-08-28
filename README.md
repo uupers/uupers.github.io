@@ -66,6 +66,8 @@
 **视频**：
 * [【数据可视化】7分钟看完加速77万倍的B站发展史](https://www.bilibili.com/video/av21768006)
 * [【大数据】B站哪个区播放量最高](https://www.bilibili.com/video/av22755224)
+* [【大数据】B站播放量最高的UP主是谁？](https://www.bilibili.com/video/av27117035)
+* [【竞速】最快达成传说的Vocaloid中文曲是哪首](https://www.bilibili.com/video/av28027802)
 
 # 团队成员
 
