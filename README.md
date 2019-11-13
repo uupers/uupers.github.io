@@ -1,10 +1,15 @@
 # United (Unknown) Unscientific Producers
 
-我们是「原创科技类视频创作团队」，我们的兴趣范围包括与编程、科普、技术相关的任何课题（例如[将编程与音乐结合](http://www.bilibili.com/video/av18623766)、[将科普与游戏结合](http://www.bilibili.com/video/av19070980)）。<ins><b>原创</b></ins> 是我们最看重的品质：技术不会可以学，好的 idea 是最宝贵的。
+我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域，比如：
+* [将编程与音乐结合](http://www.bilibili.com/video/av18623766)
+* [将科普与游戏结合](http://www.bilibili.com/video/av19070980)
 
-我们用着不同的软件，写着不同的代码，因为同一个理想而走到一起：让高质量的原创科技类作品诞生在祖国的土壤上，让国内观众不再靠吃搬运粮为生。我们希望将国内的原创科技类创作圈做大做强，让祖国的这片互联网土壤变得肥沃，最终足以支持优质内容的创作者以此为生。
+<b>创造力</b>（曾经）是我们最看重的品质。
 
-如果你和我们有共同的理想、有好的 idea 想和我们分享、或愿意助力我们的创作，我们都表示欢迎！我们的 QQ 群：[335489737](http://qm.qq.com/cgi-bin/qm/qr?k=nO9RO5NkSi_fMN9inKDG7x-0JGWakT3q)
+
+如果你和我们有共同的理想、有好的 idea 想和我们分享、或愿意助力我们的创作，我们都表示欢迎！
+
+我们的 QQ 群：[335489737](http://qm.qq.com/cgi-bin/qm/qr?k=nO9RO5NkSi_fMN9inKDG7x-0JGWakT3q) （管理员通常在潜水）
 
 
 
@@ -17,6 +22,10 @@
 - 2018.02.26 [抱团群的设立（续）](https://gist.github.com/LePtC/23ceab4e1647d8461c46ea7bc3dcc34b) （[墙内阅读地址](https://github.com/uupers/uupers.github.io/blob/master/%E6%8A%B1%E5%9B%A2%E7%BE%A4%E7%9A%84%E8%AE%BE%E7%AB%8B%EF%BC%88%E7%BB%AD%EF%BC%89.md)）
 
 - 2018.03.01 [团队的候选名和头像](https://github.com/orgs/uupers/teams/admin/discussions/3) （需加入组织才可见）
+
+- 2018.09.01 ~ 2019.11.?? 沉寂
+
+- 2019.11.?? 回归。
 
 
 群聊产生的具体项目 idea 贴在 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) ，此外我们还 maintain 一个 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke) 点滴记录团队的欢声笑语
@@ -68,6 +77,7 @@
 * [【大数据】B站哪个区播放量最高](https://www.bilibili.com/video/av22755224)
 * [【大数据】B站播放量最高的UP主是谁？](https://www.bilibili.com/video/av27117035)
 * [【竞速】最快达成传说的Vocaloid中文曲是哪首](https://www.bilibili.com/video/av28027802)
+* [【大数据】B站有哪些播放过百万的原创视频](https://www.bilibili.com/video/av30861151)
 
 # 团队成员
 
@@ -92,8 +102,8 @@
     <td><a href="https://www.zhihu.com/people/yxlllc/">知乎</a></td>
   </tr>
   <tr>
-    <td>钦定的管理员 <a href="https://github.com/Hansimov">IAsimov</a></td>
-    <td>Python, JavaScript</td>
+    <td>钦定的管理员 <a href="https://github.com/Hansimov">Hansimov</a></td>
+    <td>编程，动效</td>
     <td><a href="http://space.bilibili.com/15870477/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zh-yu-88-90/">知乎</a></td>
   </tr>
