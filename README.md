@@ -1,22 +1,25 @@
 
-# 以前的文档
-https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
+**以前的文档：https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md**
 
 ---
 
 # United Unscientific Producers
 
+QQ 群：335489737 （如有私人问题可直接加管理员，注明来意）
+
 我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域。
 
-<!-- 如今各位主创 -->
+（2019年11月18日）如今三位主创都有了自己的想法和方向。
 
-
-我们的 QQ 群：[335489737](http://qm.qq.com/cgi-bin/qm/qr?k=nO9RO5NkSi_fMN9inKDG7x-0JGWakT3q) （管理员通常在潜水，如有私人问题请直接加管理员）
+* LePtC，专注于物理科普和数据可视化：https://space.bilibili.com/2654670
+  * 粉丝群：429712471；Flash可视化群：869200702
+* yxlllc，目前处于归隐状态：https://space.bilibili.com/75304607
+  * llc 低调到没有个人群，直接加组织群即可：335489737
+* Hansimov，决心重建UP组：https://space.bilibili.com/15870477
+  * UP组的B站空间：https://space.bilibili.com/299999920
 
 
 # 团队日记
-
-为了方便新人快速了解我们，我们会定期将一些重要的聊天记录整理成摘要：
 
 - 2018.02.13 [抱团群的设立](http://www.bilibili.com/read/cv220952)
 
@@ -24,9 +27,9 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
 
 - 2018.03.01 [团队的候选名和头像](https://github.com/orgs/uupers/teams/admin/discussions/3) （需加入组织才可见）
 
-- 2018.09.01 ~ 2019.11.?? 咕咕咕
+- 2018.09.01 ~ 2019.11.10 咕咕咕
 
-- 2019.11.?? 启动 MUUA（Make Uups Up Again）计划
+- 2019.11.11 Hansimov 决定启动 MUUA（Make Uups Up Again）计划
 
 
 # 团队作品
@@ -40,34 +43,40 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
 
 # （曾经加入过的）团队成员
 
+时间流逝，这张表格已经不再完整，很多地方也过时了。
+
+虽然他们中很多人已经不再参与创作，但是依旧以不同的形式继续支持和鼓励着UP组的发展。
+
+其实 「不科学的UP组」 创作团队目前只剩下 Hansimov 一个人了，但是组织不会忘记建立至今加入过的任何成员。
+
 （排名不分先后）
 
 <table>
   <tr>
     <th>简介</th>
-    <th>专业领域</th>
+    <th>专业、爱好和职责</th>
     <th colspan="2">活跃网站</th>
   </tr>
   <tr>
-    <td>给各位大佬端茶送水的群主 <a href="https://github.com/LePtC">LePtC</a></td>
+    <td>给各位大佬端茶送水的群主（先已移交给 yxlllc） <a href="https://github.com/LePtC">LePtC</a></td>
     <td>物理，MMA，Flash，编曲，写文章</td>
     <td><a href="http://space.bilibili.com/2654670/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/leptc/">知乎</a></td>
   </tr>
   <tr>
-    <td>外交推广担当 <a href="https://github.com/yxlllc">yxlllc</a></td>
+    <td>外交推广担当（暂时远离创作） <a href="https://github.com/yxlllc">yxlllc</a></td>
     <td>物理，MMA，音视频处理</td>
     <td><a href="http://space.bilibili.com/75304607">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/yxlllc/">知乎</a></td>
   </tr>
   <tr>
-    <td>钦定的管理员 <a href="https://github.com/Hansimov">Hansimov</a></td>
+    <td>钦定的管理员（目前挑起重建UP组的重担） <a href="https://github.com/Hansimov">Hansimov</a></td>
     <td>编程，动效</td>
     <td><a href="http://space.bilibili.com/15870477/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zh-yu-88-90/">知乎</a></td>
   </tr>
   <tr>
-    <td>本群吉祥物，招财猫 <a href="https://github.com/donizyo">KaiserKatze</a></td>
+    <td>本群吉祥物、招财猫 <a href="https://github.com/donizyo">KaiserKatze</a></td>
     <td>Java，GNU C</td>
     <td><a href="http://space.bilibili.com/6290510/">哔哩</a></td>
     <td></td>
@@ -218,18 +227,7 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
   </tr>
 </table>
 
-（想修改自己简介的，或者不想被展示在团队首页的，可私戳群主修改，新人想被加进列表也请私戳群主）
-
 
 # 联系我们
 
 这里曾经有一个捐款页面，但是 Hansimov 觉得没有必要，于是就将它隐藏了。
-
-<!-- 
-
-唯一指定邮箱：uupers@gmail.com
-
-<a href="HTTPS://QR.ALIPAY.COM/FKX09997SC6KZXWNAWBC43"><img width="350" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg"></a>
-
-（帐号由本团的<a href="https://github.com/orgs/uupers/teams/daily-joke/discussions/7">吉祥物</a>：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理） -->
-
