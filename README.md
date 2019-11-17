@@ -5,19 +5,20 @@
 
 # United Unscientific Producers
 
-QQ 群：335489737 （如有私人问题可直接加管理员，注明来意）
+QQ 群：335489737 （如有私人问题可直接加管理员 Hansimov，注明来意）
 
 我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域。
 
 （2019年11月18日）如今三位主创都有了自己的想法和方向。
 
-* LePtC，专注于物理科普和数据可视化：https://space.bilibili.com/2654670
+* LePtC，专注于物理科普和数据可视化
+  * B站空间：https://space.bilibili.com/2654670
   * 粉丝群：429712471；Flash可视化群：869200702
-* yxlllc，目前处于归隐状态：https://space.bilibili.com/75304607
-  * llc 低调到没有个人群，直接加组织群即可：335489737
-* Hansimov，决心重建UP组：https://space.bilibili.com/15870477
-  * UP组的B站空间：https://space.bilibili.com/299999920
-
+* yxlllc，目前处于归隐状态
+  * B站空间：https://space.bilibili.com/75304607
+  * 低调到没有粉丝群，直接加组织群即可找到他：335489737
+* Hansimov，决心重新振兴UP组
+  * B站空间：https://space.bilibili.com/15870477
 
 # 团队日记
 
@@ -27,19 +28,19 @@ QQ 群：335489737 （如有私人问题可直接加管理员，注明来意）
 
 - 2018.03.01 [团队的候选名和头像](https://github.com/orgs/uupers/teams/admin/discussions/3) （需加入组织才可见）
 
-- 2018.09.01 ~ 2019.11.10 咕咕咕
+- 2018.09.02 ~ 2019.11.10 咕咕咕
 
 - 2019.11.11 Hansimov 决定启动 MUUA（Make Uups Up Again）计划
 
 
 # 团队作品
 
-* [【数据可视化】7分钟看完加速77万倍的B站发展史](https://www.bilibili.com/video/av21768006)
-* [【大数据】B站哪个区播放量最高](https://www.bilibili.com/video/av22755224)
-* [【大数据】B站播放量最高的UP主是谁？](https://www.bilibili.com/video/av27117035)
-* [【竞速】最快达成传说的Vocaloid中文曲是哪首](https://www.bilibili.com/video/av28027802)
-* [【气泡图】B站热门番剧发展史（2010.08~2018.08）](https://www.bilibili.com/video/av30658287)
-* [【大数据】B站有哪些播放过百万的原创视频](https://www.bilibili.com/video/av30861151)
+* (2018.04.07)[【数据可视化】7分钟看完加速77万倍的B站发展史](https://www.bilibili.com/video/av21768006)
+* (2018.04.30)[【大数据】B站哪个区播放量最高](https://www.bilibili.com/video/av22755224)
+* (2018.07.18)[【大数据】B站播放量最高的UP主是谁？](https://www.bilibili.com/video/av27117035)
+* (2018.07.29)[【竞速】最快达成传说的Vocaloid中文曲是哪首](https://www.bilibili.com/video/av28027802)
+* (2018.08.30)[【气泡图】B站热门番剧发展史（2010.08~2018.08）](https://www.bilibili.com/video/av30658287)
+* (2018.09.01)[【大数据】B站有哪些播放过百万的原创视频](https://www.bilibili.com/video/av30861151)
 
 # （曾经加入过的）团队成员
 
@@ -64,13 +65,13 @@ QQ 群：335489737 （如有私人问题可直接加管理员，注明来意）
     <td><a href="https://www.zhihu.com/people/leptc/">知乎</a></td>
   </tr>
   <tr>
-    <td>外交推广担当（暂时远离创作） <a href="https://github.com/yxlllc">yxlllc</a></td>
+    <td>外交推广担当（暂时归隐田园） <a href="https://github.com/yxlllc">yxlllc</a></td>
     <td>物理，MMA，音视频处理</td>
     <td><a href="http://space.bilibili.com/75304607">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/yxlllc/">知乎</a></td>
   </tr>
   <tr>
-    <td>钦定的管理员（目前挑起重建UP组的重担） <a href="https://github.com/Hansimov">Hansimov</a></td>
+    <td>钦定的管理员（目前挑起振兴UP组的重担） <a href="https://github.com/Hansimov">Hansimov</a></td>
     <td>编程，动效</td>
     <td><a href="http://space.bilibili.com/15870477/">哔哩</a></td>
     <td><a href="https://www.zhihu.com/people/zh-yu-88-90/">知乎</a></td>
@@ -228,6 +229,6 @@ QQ 群：335489737 （如有私人问题可直接加管理员，注明来意）
 </table>
 
 
-# 联系我们
+# 资助我们
 
 这里曾经有一个捐款页面，但是 Hansimov 觉得没有必要，于是就将它隐藏了。
