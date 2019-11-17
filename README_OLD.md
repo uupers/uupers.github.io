@@ -1,17 +1,15 @@
+# United (Unknown) Unscientific Producers
 
-# 以前的文档
-https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
+我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域，比如：
+* [将编程与音乐结合](http://www.bilibili.com/video/av18623766)
+* [将科普与游戏结合](http://www.bilibili.com/video/av19070980)
 
----
-
-# United Unscientific Producers
-
-我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域。
-
-<!-- 如今各位主创 -->
+<b>创造力</b>（曾经）是我们最看重的品质。
 
 
-我们的 QQ 群：[335489737](http://qm.qq.com/cgi-bin/qm/qr?k=nO9RO5NkSi_fMN9inKDG7x-0JGWakT3q) （管理员通常在潜水，如有私人问题请直接加管理员）
+如果你和我们有共同的理想、有好的 idea 想和我们分享、或愿意助力我们的创作，我们都表示欢迎！
+
+我们的 QQ 群：[335489737](http://qm.qq.com/cgi-bin/qm/qr?k=nO9RO5NkSi_fMN9inKDG7x-0JGWakT3q) （管理员通常在潜水）
 
 
 # 团队日记
@@ -24,13 +22,56 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
 
 - 2018.03.01 [团队的候选名和头像](https://github.com/orgs/uupers/teams/admin/discussions/3) （需加入组织才可见）
 
-- 2018.09.01 ~ 2019.11.?? 咕咕咕
+- 2018.09.01 ~ 2019.11.?? 沉寂
 
-- 2019.11.?? 启动 MUUA（Make Uups Up Again）计划
+- 2019.11.?? 回归。
+
+
+群聊产生的具体项目 idea 贴在 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) ，此外我们还 maintain 一个 [群聊日常笑话榜](https://github.com/orgs/uupers/teams/daily-joke) 点滴记录团队的欢声笑语
+
+（注：各 Team 时间线、[Daily Joke](https://github.com/orgs/uupers/teams/daily-joke) 和 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 仅加入组织的成员可见，所以请群员尽量都开 GitHub 帐号并加入组织）
+
+
+
+# Idea 孵化流程
+
+1. 初步的想法在大群里讨论，集思广益
+1. 整理群聊成果，贴到 [Daily Idea](https://github.com/orgs/uupers/teams/daily-idea) 永久存档
+1. 认为某个 idea 可以开工后，在 Organization 下开新的 Repo 和 Team
+1. 后续讨论在组员的子群、Team 的时间线、Repo 的 issue 里进行
+
+当前进行中的创作项目有：
+
+<table>
+  <tr>
+    <th>小组</th>
+    <th>简介</th>
+    <th>组长</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/uupers/BiliSpider">BiliSpider</a></td>
+    <td>爬取 bilibili 网站数据，研究其中有趣的规律，制作大数据可视化视频作品</td>
+    <td><a href="https://github.com/yxlllc">yxlllc</a></td>
+  </tr>
+  <!-- <tr>
+    <td><a href="https://github.com/uupers/SciAni">SciAni</a></td>
+    <td>通俗直观地讲解大家感兴趣的问题，做涨姿势的干货科普，生产文章和视频作品</td>
+    <td><a href="https://github.com/Hansimov">IAsimov</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/uupers/How2Lexplain">How2Lexplain</a></td>
+    <td>【如何狸解】系列科普作品的视频化计划，准备从狭义相对论的相关话题入手</td>
+    <td><a href="https://github.com/LePtC">LePtC</a></td>
+  </tr> -->
+</table>
+
 
 
 # 团队作品
 
+团队作品包括视频、文章、程序，计划分别发布在 B 站、知乎专栏、GitHub，所有互动也都在上述社交网站上进行。同时，在 GitHub 上搭建一个静态的团队主页 ~~（因为没钱）~~ ，提供各平台作品的汇总以及检索服务。
+
+**视频**：
 * [【数据可视化】7分钟看完加速77万倍的B站发展史](https://www.bilibili.com/video/av21768006)
 * [【大数据】B站哪个区播放量最高](https://www.bilibili.com/video/av22755224)
 * [【大数据】B站播放量最高的UP主是谁？](https://www.bilibili.com/video/av27117035)
@@ -38,7 +79,7 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
 * [【气泡图】B站热门番剧发展史（2010.08~2018.08）](https://www.bilibili.com/video/av30658287)
 * [【大数据】B站有哪些播放过百万的原创视频](https://www.bilibili.com/video/av30861151)
 
-# （曾经加入过的）团队成员
+# 团队成员
 
 （排名不分先后）
 
@@ -221,15 +262,13 @@ https://github.com/uupers/uupers.github.io/blob/master/README_OLD.md
 （想修改自己简介的，或者不想被展示在团队首页的，可私戳群主修改，新人想被加进列表也请私戳群主）
 
 
-# 联系我们
 
-这里曾经有一个捐款页面，但是 Hansimov 觉得没有必要，于是就将它隐藏了。
-
-<!-- 
+# 捐赠
 
 唯一指定邮箱：uupers@gmail.com
 
 <a href="HTTPS://QR.ALIPAY.COM/FKX09997SC6KZXWNAWBC43"><img width="350" alt="uupers@gmail.com" src="https://user-images.githubusercontent.com/6371171/36392349-b492218c-15a2-11e8-80b3-4bbb974dcd73.jpg"></a>
 
-（帐号由本团的<a href="https://github.com/orgs/uupers/teams/daily-joke/discussions/7">吉祥物</a>：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理） -->
+（帐号由本团的<a href="https://github.com/orgs/uupers/teams/daily-joke/discussions/7">吉祥物</a>：招财喵 <a href="https://github.com/donizyo">KaiserKatze</a> 负责管理）
+
 
