@@ -5,7 +5,7 @@
 
 # United Unscientific Producers
 
-QQ 群：335489737 （如有私人问题可直接加管理员 Hansimov，注明来意）
+QQ 群：335489737 
 
 我们（曾经）是「科技视频创作团队」，我们的兴趣范围涵盖编程、科普、技术和艺术等多个领域。
 
@@ -14,10 +14,10 @@ QQ 群：335489737 （如有私人问题可直接加管理员 Hansimov，注明�
 * LePtC，专注于物理科普和数据可视化
   * B站空间：https://space.bilibili.com/2654670
   * 粉丝群：429712471；Flash可视化群：869200702
-* yxlllc，目前处于归隐状态
+* yxlllc
   * B站空间：https://space.bilibili.com/75304607
   * 低调到没有粉丝群，直接加组织群即可找到他：335489737
-* Hansimov，决心重新振兴UP组
+* Hansimov，音乐可视化
   * B站空间：https://space.bilibili.com/15870477
 
 # 团队日记
@@ -30,7 +30,7 @@ QQ 群：335489737 （如有私人问题可直接加管理员 Hansimov，注明�
 
 - 2018.09.02 ~ 2019.11.10 咕咕咕
 
-- 2019.11.11 Hansimov 决定启动 MUUA（Make Uups Up Again）计划
+- 2019.11.11 Hansimov 决定启动 MUUA（Make Uups Up Again）计划，三维音乐可视化动画制作中
 
 
 # 团队作品
